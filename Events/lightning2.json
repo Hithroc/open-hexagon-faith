@@ -1,0 +1,12 @@
+{
+    "id": "lightning2",
+
+    "events":
+    [
+        {"time": 0.0,   "type": "style_set", "id": "air_temple_lightning3"},
+        {"time": 0.06,  "type": "style_set", "id": "air_temple_lightning2"},
+        {"time": 0.4,   "type": "style_set", "id": "air_temple_lightning3"},
+        {"time": 0.46,  "type": "style_set", "id": "air_temple_lightning2"},
+        {"time": 0.7,   "type": "style_set", "id": "air_temple_storm"}
+    ]
+}

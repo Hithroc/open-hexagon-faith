@@ -1,0 +1,18 @@
+{
+    // Music data id
+    "id": "rockandlava",
+
+    // Music file
+    "file_name": "rockandlava.ogg",
+
+    // Music information
+    "name": "Beneath the Sanctuary of Rock and Lava",
+    "album": "Rayman 2 Soundtrack",
+    "author": "Eric Chevalier",
+
+    // Segments
+    "segments":
+    [
+        { "time": 0 }
+    ]
+}

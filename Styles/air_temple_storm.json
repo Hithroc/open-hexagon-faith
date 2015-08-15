@@ -1,0 +1,33 @@
+{
+    // Style data id
+    "id": "air_temple_storm",
+
+    // Hue options
+    "hue_min": 240,
+    "hue_max": 240,
+    "hue_ping_pong": true,
+    "hue_increment": 0.1,
+
+    // Pulse options
+    "pulse_min": 0.0,
+    "pulse_max": 1.5,
+    "pulse_increment": 0.025,
+
+    // 3D options
+    "3D_depth": 1,
+    "3D_skew": 0.25,
+    "3D_spacing": 0,
+    "3D_alpha_multiplier": 3.5,
+    "3D_pulse_min": 2.0,
+    "3D_pulse_max": 2.0,
+
+    // Main color
+    "main": { "main": true, "static": true, "value": [0, 0, 0, 255], "pulse": [0, 0, 0, 0] },
+
+    // Background colors
+    "colors":
+    [
+        { "static": true, "value": [40, 40, 40, 255], "pulse": [0, 0, 0, 0]},
+        { "static": true, "value": [45, 45, 45, 255], "pulse": [0, 0, 0, 0]}
+    ]
+}

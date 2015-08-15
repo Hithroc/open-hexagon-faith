@@ -1,0 +1,18 @@
+{
+    // Music data id
+    "id": "earthshrine",
+
+    // Music file
+    "file_name": "earthshrine.ogg",
+
+    // Music information
+    "name": "Earthshrine",
+    "album": "",
+    "author": "Subdue",
+
+    // Segments
+    "segments":
+    [
+        { "time": 0 }
+    ]
+}

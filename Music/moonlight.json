@@ -1,0 +1,18 @@
+{
+    // Music data id
+    "id": "moonlight",
+
+    // Music file
+    "file_name": "moonlight.ogg",
+
+    // Music information
+    "name": "Moonlight",
+    "album": "",
+    "author": "Maf464",
+
+    // Segments
+    "segments":
+    [
+        { "time": 0 }
+    ]
+}

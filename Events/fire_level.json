@@ -1,0 +1,51 @@
+{
+    "id": "fire_level",
+
+    "events":
+    [ {"time": 4.7, "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 5.1, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 20.6, "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 21.0, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 44.6, "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 45.0, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 60.7,   "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 61.1, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+      // O:)
+    , {"time": 79.5, "type": "style_set", "id": "fire_temple_blaze"}
+    , {"time": 79.5, "type": "level_float_set", "value_name": "twist", "value": 1.0}
+
+      // ]:(
+    , {"time": 103.5, "type": "style_set", "id": "fire_temple_fire"}
+    , {"time": 103.5, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+    , {"time": 103.5, "type": "level_float_set", "value_name": "pulse_speed", "value": 1.5}
+    , {"time": 103.5, "type": "level_float_set", "value_name": "pulse_speed_r", "value": 100}
+
+    , {"time": 108.8,   "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 109.2, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 124.8,   "type": "level_float_set", "value_name": "twist", "value": 4.0}
+    , {"time": 125.2, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 143.5,   "type": "level_float_set", "value_name": "quake", "value": 0.8}
+
+    , {"time": 148.8, "type": "level_float_set", "value_name": "twist", "value": 8.0}
+    , {"time": 149.2,   "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 164.8,   "type": "level_float_set", "value_name": "twist", "value": 8.0}
+    , {"time": 165.2, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 180.8,   "type": "level_float_set", "value_name": "twist", "value": 8.0}
+    , {"time": 181.2, "type": "level_float_set", "value_name": "twist", "value": 0.0}
+
+    , {"time": 194.2,   "type": "level_float_set", "value_name": "quake", "value": 0.0}
+    , {"time": 194.2,   "type": "level_float_set", "value_name": "pulse_speed", "value": 0.0}
+    , {"time": 194.2,   "type": "level_float_set", "value_name": "pulse_speed_r", "value": 0.0}
+    , {"time": 194.2,   "type": "style_set", "id": "fire_temple_twinkle"}
+    , {"time": 194.2,   "type": "event_exec", "id": "fire_level" }
+    ]
+}
+}

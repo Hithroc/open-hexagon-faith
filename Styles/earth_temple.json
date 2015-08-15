@@ -1,0 +1,33 @@
+{
+    // Style data id
+    "id": "earth_temple",
+
+    // Hue options
+    "hue_min": 120,
+    "hue_max": 100,
+    "hue_ping_pong": true,
+    "hue_increment": 0.1,
+
+    // Pulse options
+    "pulse_min": 0.0,
+    "pulse_max": 1.5,
+    "pulse_increment": 0.025,
+
+    // 3D options
+    "3D_depth": 1,
+    "3D_skew": 0.25,
+    "3D_spacing": 100,
+    "3D_alpha_multiplier": 3.5,
+    "3D_pulse_min": 2.0,
+    "3D_pulse_max": 2.0,
+
+    // Main color
+    "main": { "main": true, "static": true, "value": [64, 128, 0, 255], "pulse": [0, 0, 0, 0] },
+
+    // Background colors
+    "colors":
+    [
+        { "dynamic": true, "dynamic_darkness": 4.0, "value": [96, 96, 96, 128], "pulse": [0, 0, 0, 0]},
+        { "dynamic": true, "dynamic_darkness": 5.0, "value": [96, 96, 96, 128], "pulse": [0, 0, 0, 0]}
+    ]
+}

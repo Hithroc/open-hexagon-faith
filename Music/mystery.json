@@ -1,0 +1,18 @@
+{
+    // Music data id
+    "id": "mystery",
+
+    // Music file
+    "file_name": "mystery.ogg",
+
+    // Music information
+    "name": "Mystery",
+    "album": "Army Men RTS OST",
+    "author": "Eric Klein",
+
+    // Segments
+    "segments":
+    [
+        { "time": 0 }
+    ]
+}
